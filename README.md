@@ -1,6 +1,6 @@
 # About Me
 
-**About Me** | [CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html) | [Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)
+**About Me** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
 
 I am Xuechun Xu, a current PhD candidate affiliated with the Information Science and Engineering division of the [Royal Institute of Technology, KTH](https://www.kth.se/en). I have been privileged to work under Professor [Joakim Jaldén](https://www.kth.se/profile/jalden) and am on track to defend my doctoral dissertation in March 2024. 
 
