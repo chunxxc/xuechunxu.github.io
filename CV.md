@@ -9,7 +9,7 @@
 
 ### In Review
 
-- **Xuechun, Xu**, Nayanika Bhalla, Patrik Støahl, Joakim Jaldén. [Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network.](https://www.biorxiv.org/content/10.1101/2022.07.13.499873v1). Submitted to Bioinformatics, 2023.
+- **Xuechun, Xu**, Nayanika Bhalla, Patrik Ståhl, Joakim Jaldén. [Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network.](https://www.biorxiv.org/content/10.1101/2022.07.13.499873v1). Submitted to Bioinformatics, 2023.
 - **Xuechun, Xu**, Joakim Jaldén. [Marginalized Beam Search Algorithms for Hierarchical HMMs](https://arxiv.org/abs/2305.11752). Submitted to IEEE Trans- actions on Signal Processing, 2023.
 
 ### In Prep
