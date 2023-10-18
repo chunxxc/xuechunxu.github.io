@@ -10,7 +10,7 @@ I graduated from the Master's program in System, Control and Robotics at KTH, Sw
 
 ## Contact
 
-**Email**: chunx@kth.se; chunxxc@gmail.com
+**Email**: chunxxc@gmail.com; chunx@kth.se
 
 
 ## Publications
