@@ -1,4 +1,7 @@
 # Curriculum Vitae
+
+**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
+
 ## Education
 - Ph.D., Electrical Engineering | Royal Institute of Technology, KTH | Advisor: Dr. Joakim Jaldén | (_2018 - present_)								       		
 - M.S., System, Control and Robotics	| Royal Institute of Technology, KTH | (_2015 - 2018_)
