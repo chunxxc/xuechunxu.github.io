@@ -25,11 +25,11 @@
 
 ## Experience as Teaching Assistant @ KTH
 
-- **Digital Signal processing (_Fall 2019, 2020, 2022_)**
-- **Pattern Recognition and Machine Learning (_Spring 2022_)**
-- **Matrix Algebra (_Spring 2020_)**
-- **Machine Learning and Data Science (_Fall 2018_)**
-- **Image Analysis and Computer Vision (_Fall 2017_)**
+- Digital Signal processing (_Fall 2019, 2020, 2022_)
+- Pattern Recognition and Machine Learning (_Spring 2022_)
+- Matrix Algebra (_Spring 2020_)
+- Machine Learning and Data Science (_Fall 2018_)
+- Image Analysis and Computer Vision (_Fall 2017_)
 
 
 ## Presentations
@@ -43,9 +43,11 @@
 - **GPU servers(Linux) administration**, Division of Information Science and Engineering, KTH (_2019 - present_)
 - **MPC toolbox in Julia**, Division of Decision and Control System, KTH (_2016_)
 - **Recipe recommender system/APP**, Eatit, Sweden (_2016_)
+  
 ### Programming skill
+
 - Advanced: Python
-- Intermediate: Java, C/C++, CUDA
+- Intermediate: C/C++, CUDA, Java
   
 ### Peer Review
 
