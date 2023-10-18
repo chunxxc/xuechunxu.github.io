@@ -1,6 +1,6 @@
 # About Me
 
-**About Me** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
+**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
 
 I am Xuechun Xu, a current PhD candidate affiliated with the Information Science and Engineering division of the [Royal Institute of Technology, KTH](https://www.kth.se/en). I have been privileged to work under Professor [Joakim Jaldén](https://www.kth.se/profile/jalden) and am on track to defend my doctoral dissertation in March 2024. 
 
@@ -17,7 +17,7 @@ I graduated from the Master's program in System, Control and Robotics at KTH, Sw
 
 ### In Review
 
-- **Xuechun, Xu**, Nayanika Bhalla, Patrik Støahl, Joakim Jaldén. [Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network.](https://www.biorxiv.org/content/10.1101/2022.07.13.499873v1). Submitted to Bioinformatics, 2023.
+- **Xuechun, Xu**, Nayanika Bhalla, Patrik Ståhl, Joakim Jaldén. [Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network.](https://www.biorxiv.org/content/10.1101/2022.07.13.499873v1). Submitted to Bioinformatics, 2023.
 - **Xuechun, Xu**, Joakim Jaldén. [Marginalized Beam Search Algorithms for Hierarchical HMMs](https://arxiv.org/abs/2305.11752). Submitted to IEEE Transactions on Signal Processing, 2023.
 
 
