@@ -1,6 +1,6 @@
 # About Me
 
-**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
+**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Art Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
 
 I am Xuechun Xu, and on May 24th, 2024, I completed my PhD in the Information Science and Engineering division at the Royal Institute of Technology (KTH), Sweden, under the supervision of Professor Joakim Jaldén. My research revolves around the development of interpretative models and high-performance algorithms for nanopore sequencing. My dissertation, [Algorithms and Models in Nanopore DNA Sequencing: Advanced Decoding and Modeling with Hierarchical Hidden Markov Models](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-346051) includes two interpretable stochastic models to characterize the underlying process of nanopore sequencing and high-performance algorithms to handle large-scale inference problems in basecalling.
 
