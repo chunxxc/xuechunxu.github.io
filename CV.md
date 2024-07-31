@@ -1,23 +1,26 @@
 # Curriculum Vitae
 
-**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
+**[About Me](https://chunxxc.github.io/xuechunxu.github.io/)** | **[CV](https://chunxxc.github.io/xuechunxu.github.io/CV.html)** | **[Art Gallery](https://chunxxc.github.io/xuechunxu.github.io/hobbies.html)**
 
 ## Education
-- Ph.D., Electrical Engineering | Royal Institute of Technology, KTH | Advisor: Dr. Joakim Jaldén | (_2018 - present_)								       		
-- M.S., System, Control and Robotics	| Royal Institute of Technology, KTH | (_2015 - 2018_)
-- B.S., Mechatronics Engineering | Beijing Jiaotong University, BJTU | (_2012 - 2016_)
+- Ph.D. in Electrical Engineering | Royal Institute of Technology, KTH | Advisor: Dr. Joakim Jaldén | (_2018 - 2024_)								       		
+- M.S. in System, Control and Robotics	| Royal Institute of Technology, KTH | (_2015 - 2018_)
+- B.S. in Mechatronics Engineering | Beijing Jiaotong University, BJTU | (_2012 - 2016_)
 
 
 ## Publications
+- **Xuechun, Xu** Algorithms and Models in Nanopore DNA Sequencing: Advanced Decoding and Modeling with Hierarchical Hidden Markov Models. Doctoral dissertation. KTH Royal Institute of Technology, 2024. p. 147. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-346051](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-346051)
 - **Xuechun, Xu**, Nayanika Bhalla, Patrik Ståhl, Joakim Jaldén. Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network. BMC Bioinformatics 24, 461 (2023). [https://doi.org/10.1186/s12859-023-05580-x](https://doi.org/10.1186/s12859-023-05580-x)
-### In Review
-- **Xuechun, Xu**, Joakim Jaldén. [Marginalized Beam Search Algorithms for Hierarchical HMMs](https://arxiv.org/abs/2305.11752). Submitted to IEEE Trans- actions on Signal Processing, 2023.
+- **Xuechun, Xu**, Joakim Jaldén. Marginalized Beam Search Algorithms for Hierarchical HMMs. Accepted to IEEE Transactions on Signal Processing on May 30, 2024. [https://ieeexplore.ieee.org/document/10559750](https://ieeexplore.ieee.org/document/10559750)
+- **IN PREP: Xuechun, Xu**, Joakim Jaldén. Nanopore sequencing basecaller with Massive-state hierarchical HMMs. arXiv preprint arXiv:2405.00833
+- Lars Hummelgren, Viktor Palmkvist, Linnea Stjerna, **Xuechun, Xu**, Joakim Jaldén, David Broman. Trellis: A Language for Hidden Markov Models with Sparse Transitions. In review with the ACM International Conference on Software Language Engineering
 
-### In Prep
-
-- **Xuechun, Xu**, Joakim Jaldén. Nanopore sequencing basecaller with Massive-state hierarchical HMMs. 
-
-
+## Technical Contributions & Presentations
+- _Lokatt basecaller_. An open-source HMM-DNN nanopore DNA basecaller.[Computer software] \\https://github.com/chunxxc/lokatt}
+- _E.coli nanopore sequencing (ONT R9.4.1) data set._ [Dataset] \\https://zenodo.org/records/7995806}
+- _Model Supported Deep Learning for Nanopore DNA Sequencing._ The Machine Learning Day, Digital Futures. (_Spring 2022_)
+- _Hybrid HMM on DNA basecalling._ Nanyang Technological University, Singapore (_Fall 2019_)
+  
 ## Awards & Grants
 - Excellence-program for the Doctoral Program in Electrical Engineering, KTH, 2018
 - Chinese national government study abroad scholarship, Chinese Scholarship Council, 2015
@@ -32,11 +35,6 @@
 - Machine Learning and Data Science (_Fall 2018_)
 - Image Analysis and Computer Vision (_Fall 2017_)
 
-
-## Presentations
-- _Model Supported Deep Learning for Nanopore DNA Sequencing._ The Machine Learning Day, Digital Futures. (_Spring 2022_)
-- _Hybrid HMM on DNA basecalling._ Nanyang Technological University, Singapore (_Fall 2019_)
-
 ## Outreach & Professional Development
 
 ### Projects and Service
@@ -45,18 +43,15 @@
 - **MPC toolbox in Julia**, Division of Decision and Control System, KTH (_2016_)
 - **Recipe recommender system/APP**, Eatit, Sweden (_2016_)
   
-### Programming skill
+### Skill
 
-- Advanced: Python
-- Intermediate: C/C++, CUDA, Java
+- Programming Languages: Python, MATLAB, C++, CUDA, Java, Julia
+- Tools and Technologies: Linux, Git, Supercomputer Cluster, Docker, TensorFlow, PyTorch
   
 ### Peer Review
 
-- Signal Processing (2021 - present)
-
-### Professional Memberships
-
-- IEEE student member
+- Signal Processing 
+- Frontiers in Genetics
 
 ## Links
 
