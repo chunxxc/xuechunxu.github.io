@@ -11,7 +11,7 @@
 ## Publications
 - **Xuechun, Xu** Algorithms and Models in Nanopore DNA Sequencing: Advanced Decoding and Modeling with Hierarchical Hidden Markov Models. Doctoral dissertation. KTH Royal Institute of Technology, 2024. p. 147. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-346051](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-346051)
 - **Xuechun, Xu**, Nayanika Bhalla, Patrik Ståhl, Joakim Jaldén. Lokatt: A hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network. BMC Bioinformatics 24, 461 (2023). [https://doi.org/10.1186/s12859-023-05580-x](https://doi.org/10.1186/s12859-023-05580-x)
-- **Xuechun, Xu**, Joakim Jaldén. Marginalized Beam Search Algorithms for Hierarchical HMMs. Accepted to IEEE Transactions on Signal Processing on May 30, 2024. [https://ieeexplore.ieee.org/document/10559750](https://ieeexplore.ieee.org/document/10559750)
+- **Xuechun, Xu**, Joakim Jaldén. Marginalized Beam Search Algorithms for Hierarchical HMMs. IEEE Transactions on Signal Processing, vol. 72, pp. 3013-3027, 2024. [https://ieeexplore.ieee.org/document/10559750](https://ieeexplore.ieee.org/document/10559750)
 - **IN PREP: Xuechun, Xu**, Joakim Jaldén. Nanopore sequencing basecaller with Massive-state hierarchical HMMs. arXiv preprint arXiv:2405.00833
 - Lars Hummelgren, Viktor Palmkvist, Linnea Stjerna, **Xuechun, Xu**, Joakim Jaldén, David Broman. Trellis: A Language for Hidden Markov Models with Sparse Transitions. In review with the ACM International Conference on Software Language Engineering
 
